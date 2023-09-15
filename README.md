@@ -1,9 +1,9 @@
 # resume
 a repo about resume
-# Heading level 1
+
 <h1>Nhi Nguyen</h1>
 
-## Heading level 2
+
 <h2>
 About: I'm from Vietnam and i am a student of Web Development in Humber College
 Projects:  HTTP5114, resume.
@@ -14,9 +14,8 @@ Contact: hathaonhin@gmail.com.
 
 <p>I am a student at Humber College, i am animal person and a foodie. I love learning new things from everyone around me.</p>
 
-![My profile image](/HTTP/resume/image.jpg "San Juan Mountains")
+![My profile image](/image.jpg "my profile image")
 
-## Table
 <table>
 <thead>
     <tr>
@@ -37,7 +36,7 @@ Contact: hathaonhin@gmail.com.
 </thead>
 </table>
 
-## list of education and work experience
+
 <h3>Education</h3>
 <ul>
     <li>Bacheolor of Business Information System</li>
@@ -49,12 +48,12 @@ Contact: hathaonhin@gmail.com.
     <li>No experience</li>
 </ul>
 
-## lists of social media
+
 
 <h3>Social media</h3>
 
 <ul>
-<li><a href="https://www.facebook.com/nguyenhathao.nhi">Facebook</a><li>
+<li><a href="https://www.facebook.com/nguyenhathao.nhi">Facebook</a></li>
 </ul>
 
 
