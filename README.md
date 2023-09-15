@@ -5,12 +5,21 @@ a repo about resume
 
 
 <h2>
-About: I'm from Vietnam and i am a student of Web Development in Humber College
-Projects:  HTTP5114, resume.
-Education:Bacheolor of Business Information System
-Work experience: no experience.
-Contact: hathaonhin@gmail.com.
+About: 
+  
+
+ 
+ 
 </h2>
+<p>I'm from Vietnam and i am a student of Web Development in Humber College </p>
+<h2>Projects:</h2>
+<p>HTTP5114, resume.</p>
+<h2>Education:</h2>
+<p>Bacheolor of Business Information System</p>
+<h2>Work experience:</h2>
+<p>no experience.</p>
+<h2>Contact:</h2>
+<p>hathaonhin@gmail.com.</p>
 
 <p>I am a student at Humber College, i am animal person and a foodie. I love learning new things from everyone around me.</p>
 
