@@ -15,7 +15,7 @@ hathaonhin@gmail.com.
 
 I am a student at Humber College, i am animal person and a foodie. I love learning new things from everyone around me.
 
-![My profile image](/image.jpg "my profile image")
+![My profile image](_readme/image.jpg "my profile image")
 
 
 | Tiltle     | URL |Technology|
